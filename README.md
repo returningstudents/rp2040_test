@@ -1,7 +1,7 @@
 # rp2040_test
 
 ## 1. 블럭도
-<img src="https://user-images.githubusercontent.com/65072588/174705299-bdedfd46-1f56-41cd-9500-29063e0586a1.png">
+<img src="https://user-images.githubusercontent.com/65072588/174707180-eda5d597-3016-4781-89ad-246f235c04d7.JPG">
 
 ## 2. 작품 설명
 아두이노 rp 2040을 PC와 연결후 기본 탑재된 imu센서를 이용하여 가속도, gyro를 그래프로 나타냄
@@ -15,4 +15,3 @@
 
 ### 영상
 <img src="https://user-images.githubusercontent.com/65072588/174706173-a79a1582-6e22-4b83-9ede-6338810bb408.gif">
-
