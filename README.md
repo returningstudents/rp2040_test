@@ -15,3 +15,7 @@
 
 ### 영상
 <img src="https://user-images.githubusercontent.com/65072588/174706173-a79a1582-6e22-4b83-9ede-6338810bb408.gif">
+
+## 4. 피드백
+현재 rp2040에서 PC를 거쳐 통신하는데 PC를빼고 rp2040에 탑재된 tiny mosquitto를 이용해 jetson nano와 바로 통신을 할 것
+또한 현재 정제되지 않은 정보가 node-red로 통신하는데 누락된 정보가 있을 것 rp2040에서 정제된 정보를 
