@@ -1,4 +1,4 @@
-# rp2040_test
+# 임베디드시스템 1601670 최상윤 1801263 이나영
 
 ## 1. 블럭도
 <img src="https://user-images.githubusercontent.com/65072588/174707180-eda5d597-3016-4781-89ad-246f235c04d7.JPG">
